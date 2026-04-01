@@ -1,16 +1,14 @@
+<p align="center">
+  <img src="https://github.com/Lunora-Android/.github/raw/main/media/banner.png">
+</p>
+
 <h1 align="center">Lunora | Open Source Android Distribution</h1>
 
 **Lunora (Lunar Aurora)** is a simple Android custom ROM, based on **CodeLinaro** source code.
 The main philosophy of this project is smoothness and stability across entire system by keeping the ROM
 clean and minimalistic, containing small but useful features.
 
-### Available manifest branches
-```bash
-# Each branch represents an exact Android and QPR release in format vX.Y, where:
-# X - Android version
-# Y - QPR version
-- v16.2 [Active] [WIP]
-```
+[![GitHub](https://img.shields.io/badge/Build%20Your%20Lunora-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunora-Android/manifest)
 
 ### Links
 [![GitHub](https://img.shields.io/badge/Lunora%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunora-Android)
@@ -24,4 +22,4 @@ clean and minimalistic, containing small but useful features.
 
 ### Credits
 [![AOSP](https://img.shields.io/badge/Android%20Open%20Source%20Project-6a97d2?style=for-the-badge&logo=android&logoColor=ffffff)](https://source.android.com) <br>
-[![CLO](https://img.shields.io/badge/CodeLinaro%20GitLab-415fff?style=for-the-badge&logo=Qualcomm&logoColor=ffffff)](https://git.codelinaro.org/clo/la/la)
+[![CLO](https://img.shields.io/badge/CodeLinaro%20Git-415fff?style=for-the-badge&logo=Qualcomm&logoColor=ffffff)](https://git.codelinaro.org/clo/la/la)
